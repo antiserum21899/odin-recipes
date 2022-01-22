@@ -8,4 +8,4 @@
 # Recipes used for this project.
    - https://minimalistbaker.com/5-ingredient-banana-egg-pancakes/
    - https://www.allrecipes.com/recipe/8330707/easy-5-ingredient-roasted-salmon/
-
+   - https://minimalistbaker.com/1-pot-curried-chickpea-soup/
