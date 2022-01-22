@@ -1,4 +1,4 @@
-# This project is a basic recipe website with ingredients and instructions using the basics of HTML.
+# A basic recipe website with ingredients and instructions with links to source material and homepage using the basics of HTML.
    - Will include main index page
    - Linking webistes and other html files/pages together.
    - Demonstrate the use of unordered and ordered lists
