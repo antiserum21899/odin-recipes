@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(44, 41, 41);
+}
+
+.text {
+    color: white;
+}
+
+.home-title {
+    font-family: Verdana;
+    font-weight: bold;
+    background-color: rgb(72, 38, 128);
+}
+
+.link:hover {
+    background-color: white;
+}
+
+.recipe-list {
+    list-style: none;
+    text-align: left;
+} 
