@@ -1,22 +1,70 @@
-html {
-    background-color: rgb(44, 41, 41);
+* {
+    font-family: '2002 Bold', sans-serif;
 }
 
-.text {
-    color: white;
+.home-list {
+    padding: 5px;
+    list-style: square;
+    text-align: left;
 }
 
 .home-title {
-    font-family: Verdana;
     font-weight: bold;
-    background-color: rgb(72, 38, 128);
+}
+
+.nav-container {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.nav-child {
+    float: left;
+}
+
+.nav-child .nav-bar {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-child .nav-bar:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: rgb(204, 155, 90);
+}
+
+.link:visited {
+    color: black;
 }
 
 .link:hover {
-    background-color: white;
+    color: rgb(78, 103, 240);
 }
 
 .recipe-list {
+    color: black;
     list-style: none;
     text-align: left;
 } 
+
+.roasted-salmon {
+    width: 350px;
+    height: 20%;
+}
+
+.pancake {
+    width: 300px;
+    height: 35%;
+}
+
+.chickpea-soup {
+    width: 300px;
+    height: 40%;
+}
